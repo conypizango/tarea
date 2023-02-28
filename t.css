@@ -1,0 +1,85 @@
+.bg-pink {
+    background-color:rgb(253, 7, 253);
+     width: 500px;
+     color: aliceblue;
+     border-radius: 7px;
+     border-color: rgb(255, 143, 227) ;
+     
+  }
+
+  .mb-3{
+    position: relative;
+    top: 1px;
+  }
+
+
+  .form-control{ 
+   border: 3px solid yellow;
+   border-radius: 5px;
+   background: linear-gradient(to top, rgb(255, 0, 149), rgb(255, 156, 222),rgba(255, 255, 255, 0.678));
+  width: 200px;
+  position: relative;
+  text-align: center;
+  margin: 3px;
+  padding: 3px;
+  position: relative;
+  right: 50px;
+  }
+
+ form { 
+    background-image: url("fl.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 170px;
+    width: 500px;
+    
+}
+
+
+  .form-label{ 
+    border: 2px solid rgb(253, 85, 113);
+  background-color: rgb(248, 162, 230);
+  color: rgb(83, 21, 85);
+  box-shadow: 5px 5px 10px rgb(255, 192, 203) ;
+   margin: 50px;
+  
+}
+
+.form-text{  
+  color: rgb(2, 0, 1);
+  background: linear-gradient(70deg, rgb(255, 115, 138), white, rgba(255, 255, 255, 0));
+  width: 400px;
+  position: relative;
+  left: 51px;
+}
+
+
+.form-check{
+position: relative;
+left: 45px;
+top: 5px;
+}
+
+
+.form-check-label{  
+  border: 3px solid rgb(255, 207, 207);
+  border-radius: 30px;
+  color: rgb(0, 0, 0);
+  background: linear-gradient(to left,pink 30px,rgb(255, 96, 123)77%,rgb(255, 255, 255));
+  
+  
+}
+
+.btn-primary{  
+  color: crimson;
+  background:linear-gradient(70deg, rgb(217, 255, 0), rgb(255, 145, 222), rgba(255, 255, 255, 0.979));
+  position: relative;
+  left: 200px;
+  top: 10px;
+}
+
+
+
+
+    
+    
